@@ -3,6 +3,7 @@ title: "M.1: Essential Commands"
 datePublished: Fri Jul 21 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2hy3l7000009ky1nxrhtvx
 slug: m1-essential-commands-1-1-1-1-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706748774089/3f45d802-729a-4cc7-ad27-eddbb782bbaa.png
 tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops
 
 ---
