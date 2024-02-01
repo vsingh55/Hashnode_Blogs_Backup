@@ -3,6 +3,7 @@ title: "M.2: Operation of Running Systems"
 datePublished: Wed Aug 02 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2lwm1j000109lb9ndf9huj
 slug: m2-operation-of-running-systems-1-1-1-1-1-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706755132213/e3898c0d-1611-4ec8-8939-6af891ebb40b.png
 tags: linux, devops, linux-for-beginners, linux-commands, 90daysofdevops
 
 ---
