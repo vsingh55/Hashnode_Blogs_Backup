@@ -83,3 +83,8 @@ sort data.txt | uniq -u
 By combining `sort` and `uniq` with regular expressions, you gain precise control over how data is ordered and filtered. These commands, when used in conjunction with the previously discussed ones, provide a comprehensive toolkit for efficient file content manipulation on the command line.
 
 Understanding these examples and experimenting with various patterns will empower you to handle a wide range of file manipulation tasks effectively. Regular expressions, as the common thread, tie together these commands into a cohesive and powerful set for text processing and analysis.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Thank you for joining me in this module. We have reached the end of module 1. You can now proceed to module 2 and continue your learning journey. Keep in touch and enjoy learning.</div>
+</div>
