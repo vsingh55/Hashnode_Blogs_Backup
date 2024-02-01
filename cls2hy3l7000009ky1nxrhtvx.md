@@ -156,3 +156,8 @@ sed '/important/a\New Line Inserted' notes.txt
 ```
 
 Regular expressions, when coupled with these commands, provide a powerful toolkit for anyone dealing with file content manipulation in the command line. Mastering these concepts will significantly enhance your efficiency and effectiveness in handling textual data.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Thank you for joining me in this module. We have reached the end of module 1. You can now proceed to module 2 and continue your learning journey. Keep in touch and enjoy learning.</div>
+</div>
