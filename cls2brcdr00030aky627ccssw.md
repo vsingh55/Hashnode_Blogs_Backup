@@ -3,14 +3,12 @@ title: "M.1: Essential Commands"
 datePublished: Sun Jul 16 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2brcdr00030aky627ccssw
 slug: m1-essential-commands-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706656186287/eb8c3a45-817c-47dd-bfa6-49bd1b2b0a14.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706815885880/d66a6528-a60f-4d3f-b334-d9fc961dd93b.png
 tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops
 
 ---
 
 In the world of Linux file permissions, there are a few special permissions that are incredibly useful, yet often misunderstood. These are the Set User ID (SUID), Set Group ID (SGID), and Sticky Bit. Let's dive into what these permissions are, and how they can be beneficial for your system.
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1706656265199/8ac3c61a-6aed-4317-98eb-3474bb77a46c.png align="left")
 
 ## Set-user Identification (SUID)
 
@@ -76,7 +74,10 @@ $ chmod 2555 path/to/file
 
 ### SGID on a directory
 
-– When SGID permission is set on a directory, files created in the directory belong to the group of which the directory is a member.– For example if a user having write permission in the directory creates a file there, that file is a member of the same group as the directory and not the user’s group.– This is very useful in creating shared directories.
+* When SGID permission is set on a directory, files created in the directory belong to the group of which the directory is a member.
+    
+* For example, if a user having write permission in the directory creates a file there, that file is a member of the same group as the directory and not the user’s group. This is very useful in creating shared directories.
+    
 
 ### How to set SGID on a directory
 
@@ -117,3 +118,10 @@ chmod 1777 [path_to_directory]
 ```
 
 These special permissions, while powerful, can pose security risks if misused. It's critical to understand them thoroughly and use them judiciously to maintain a secure and efficient Linux system.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1706656265199/8ac3c61a-6aed-4317-98eb-3474bb77a46c.png align="left")
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Please like and share your thoughts.</div>
+</div>
