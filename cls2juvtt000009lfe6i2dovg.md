@@ -1,6 +1,6 @@
 ---
 title: "M.2: Operation of Running Systems"
-datePublished: Thu Feb 01 2024 01:40:37 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Jul 23 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2juvtt000009lfe6i2dovg
 slug: m2-operation-of-running-systems-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706749343775/f0f4de19-e0cc-473a-bb46-b81f653c1c38.png
