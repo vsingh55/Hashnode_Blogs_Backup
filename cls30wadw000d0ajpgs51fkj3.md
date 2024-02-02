@@ -3,43 +3,12 @@ title: "M.2: Operation of Running Systems"
 datePublished: Fri Aug 04 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls30wadw000d0ajpgs51fkj3
 slug: m2-operation-of-running-systems-1-1-1-1-1-1-1-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706753628583/1e712d35-528f-4894-971f-5dc64bdff3e7.png
-tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706869187002/17d356ad-dc8b-4240-aebc-25bde6e43a29.png
+tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops, trainwithshubham
 
 ---
 
 In the intricate realm of Linux systems, the ability to fine-tune the behavior of the kernel at runtime is a powerful tool for administrators and users alike. This technical blog will explore the dynamic world of kernel runtime parameters, focusing on the versatile `sysctl` command. Whether adjusting networking parameters or optimizing memory management, understanding how to manipulate these parameters can significantly impact system performance and behavior.
-
-```bash
-#To see all kernel runtime parameter currently in use
-sudo systemctl -a
-net.ipv6.conf.default.addr_gen_mode = 0
-net.ipv6.conf.default.autoconf = 1
-net.ipv6.conf.default.dad_transmits = 1
-net.ipv6.conf.default.disable_ipv6 = 0
-#here value of 0 means disable
-#to enable (1)
-sudo sysctl -w net.ipv6.conf.default.disable_ipv6=1
-#check
-sudo sysctl net.ipv6.conf.default.disable_ipv6
-net.ipv6.conf.default.disable_ipv6 = 1
-#this is Non-persistent parameter, because settingdoes not persist across reboots.
-
-#making parameter persistant
-#add a file to sysctl.d directory with extension .conf
-#example:
-sysctl -a | grep vm
-vm.panic_on_oom = 0
-vm.percpu_pagelist_fraction = 0
-vm.stat_interval = 1
-vm.swappiness = 30
-#changing swapiness persistant to 29 instead of 30
-sudo vim /etc/sysctl.d/swap-less.conf
-vm.swapiness=29
-#the value will take effect after next boot
-#but to apply changes instantly use -p flag
-sudo sysctl -p /etc/sysctl.d/swap-less.conf
-```
 
 1. **View Current Kernel Parameters (**`sysctl -a`):
     
@@ -97,7 +66,7 @@ sudo sysctl -p /etc/sysctl.d/swap-less.conf
         
     * Example 5: Automate the sysctl configuration reload with a cron job.
         
-5. **Security Considerations with** `sysctl` Parameters:
+5. **Security Considerations with**`sysctl` Parameters:
     
     * Example 1: Disable source routing to prevent IP spoofing attacks.
         
@@ -109,5 +78,36 @@ sudo sysctl -p /etc/sysctl.d/swap-less.conf
         
     * Example 5: Adjust the maximum number of allowed key slots for kernel keyring.
         
+
+```bash
+#To see all kernel runtime parameter currently in use
+sudo systemctl -a
+net.ipv6.conf.default.addr_gen_mode = 0
+net.ipv6.conf.default.autoconf = 1
+net.ipv6.conf.default.dad_transmits = 1
+net.ipv6.conf.default.disable_ipv6 = 0
+#here value of 0 means disable
+#to enable (1)
+sudo sysctl -w net.ipv6.conf.default.disable_ipv6=1
+#check
+sudo sysctl net.ipv6.conf.default.disable_ipv6
+net.ipv6.conf.default.disable_ipv6 = 1
+#this is Non-persistent parameter, because settingdoes not persist across reboots.
+
+#making parameter persistant
+#add a file to sysctl.d directory with extension .conf
+#example:
+sysctl -a | grep vm
+vm.panic_on_oom = 0
+vm.percpu_pagelist_fraction = 0
+vm.stat_interval = 1
+vm.swappiness = 30
+#changing swapiness persistant to 29 instead of 30
+sudo vim /etc/sysctl.d/swap-less.conf
+vm.swapiness=29
+#the value will take effect after next boot
+#but to apply changes instantly use -p flag
+sudo sysctl -p /etc/sysctl.d/swap-less.conf
+```
 
 **Conclusion**: By mastering the manipulation of kernel runtime parameters using the `sysctl` command, administrators can wield precise control over the behavior of their Linux systems. Whether making temporary adjustments for immediate optimization or configuring persistent changes for long-term stability, understanding the intricacies of these parameters is essential for ensuring peak system performance and security.
