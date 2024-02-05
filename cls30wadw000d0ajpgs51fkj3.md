@@ -1,5 +1,5 @@
 ---
-title: "M.2: Operation of Running Systems"
+title: "2.9 Mastering Kernel Control: Navigating Runtime Parameters with sysctl"
 datePublished: Fri Aug 04 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls30wadw000d0ajpgs51fkj3
 slug: m2-operation-of-running-systems-1-1-1-1-1-1-1-1
