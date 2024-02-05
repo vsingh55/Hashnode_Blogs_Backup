@@ -1,14 +1,14 @@
 ---
-title: "M.1: Essential Commands"
+title: "1.9 Sort and Uniq- Comparing and Manipulating File Content"
 datePublished: Sat Jul 22 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2i2htj000109jkf9yc4w3u
 slug: m1-essential-commands-1-1-1-1-1-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706748526638/21cc85d7-ab50-457e-b6bd-08d909fdf7be.png
-tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops
+tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops, trainwithshubham
 
 ---
 
-# Comparing and Manipulating File Content with Sort and Uniq
+## Comparing and Manipulating File Content with Sort and Uniq
 
 Continuing our exploration of command-line file manipulation, this part of the blog focuses on the `sort` and `uniq` commands. We'll delve into how these commands, when paired with regular expressions, can efficiently compare and manipulate file content.
 
@@ -86,5 +86,5 @@ Understanding these examples and experimenting with various patterns will empowe
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">Thank you for joining me in this module. We have reached the end of module 1. You can now proceed to module 2 and continue your learning journey. Keep in touch and enjoy learning.</div>
+<div data-node-type="callout-text">Congratulations on completing module 1. You have learned a lot in this module and I hope you enjoyed it. Now you are ready to move on to module 2 and explore new topics. I look forward to hearing from you and wish you a happy learning experience.</div>
 </div>
