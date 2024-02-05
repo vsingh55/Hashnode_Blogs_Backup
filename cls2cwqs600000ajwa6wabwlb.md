@@ -1,5 +1,5 @@
 ---
-title: "M.1: 1.1 Understanding Terminal, Console, Shell, and Command-Line in the world of computing, the terms Terminal, Console, Shell, and CLI"
+title: "1.1 Understanding Terminal, Console, Shell, and Command-Line in the world of computing, the terms Terminal, Console, Shell, and CLI"
 datePublished: Mon Jul 10 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2cwqs600000ajwa6wabwlb
 slug: m1-essential-commands
