@@ -1,5 +1,5 @@
 ---
-title: "2.5 Unveiling System Insights: A Guide to Locating and Analyzing Linux System Log Files with journalctl"
+title: "2.4 Unveiling System Insights: A Guide to Locating and Analyzing Linux System Log Files with journalctl"
 datePublished: Sun Jul 30 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2kyqvy000109l8detn5qad
 slug: 25-unveiling-system-insights-a-guide-to-locating-and-analyzing-linux-system-log-files-with-journalctl
