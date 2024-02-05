@@ -3,7 +3,7 @@ title: "1.9 Sort and Uniq- Comparing and Manipulating File Content"
 datePublished: Sat Jul 22 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2i2htj000109jkf9yc4w3u
 slug: m1-essential-commands-1-1-1-1-1-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706748526638/21cc85d7-ab50-457e-b6bd-08d909fdf7be.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707102702928/a9df2602-3425-43d3-ae4b-5505da12f5e1.png
 tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops, trainwithshubham
 
 ---
