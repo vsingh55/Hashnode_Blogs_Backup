@@ -1,10 +1,10 @@
 ---
-title: "M.1: Essential Commands"
+title: "1.4 Understanding File Permissioning (SUID, SGID, and Sticky Bit in Linux)"
 datePublished: Sun Jul 16 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2brcdr00030aky627ccssw
 slug: m1-essential-commands-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706815885880/d66a6528-a60f-4d3f-b334-d9fc961dd93b.png
-tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops
+tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops, trainwithshubham
 
 ---
 
