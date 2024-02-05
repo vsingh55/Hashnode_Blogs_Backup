@@ -3,7 +3,7 @@ title: "1.8 Comparing and Manipulating File Content with Find, Grep, Awk, and Se
 datePublished: Fri Jul 21 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2hy3l7000009ky1nxrhtvx
 slug: m1-essential-commands-1-1-1-1-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706816165178/89ff48b8-dd4a-4fac-8f88-2b9906073a58.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707102755722/dd5baf3e-1327-4b6e-a7bd-45d7d96dc6a5.png
 tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops, shubhamlondhe, trainwithshubham
 
 ---
