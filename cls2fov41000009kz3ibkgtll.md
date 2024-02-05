@@ -1,10 +1,10 @@
 ---
-title: "M.1: Essential Commands"
+title: "1.6 Understanding Editors in Linux"
 datePublished: Wed Jul 19 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2fov41000009kz3ibkgtll
-slug: m1-essential-commands-1-1-1
+slug: 16-understanding-editors-in-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706743294648/f891bae9-4ac3-4402-93e2-c39659cd6b51.png
-tags: linux, vim, devops, linux-for-beginners, 90daysofdevops
+tags: linux, vim, devops, linux-for-beginners, 90daysofdevops, trainwithshubham
 
 ---
 
