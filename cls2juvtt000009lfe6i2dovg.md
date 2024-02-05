@@ -1,6 +1,6 @@
 ---
 title: "2.2 Managing the Startup Process and Services with Systemctl"
-datePublished: Sun Jul 23 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Jul 25 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2juvtt000009lfe6i2dovg
 slug: m2-operation-of-running-systems-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707102804010/a8f73b83-f928-4d5d-ae62-95782969ed44.png
