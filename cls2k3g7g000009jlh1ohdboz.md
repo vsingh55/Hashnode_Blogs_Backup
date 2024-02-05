@@ -1,10 +1,10 @@
 ---
-title: "M.2: Operation of Running Systems"
+title: "2.3 A Comprehensive Guide to Diagnosing and Managing Processes on Linux (ps, pgrep, nice)"
 datePublished: Wed Jul 26 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2k3g7g000009jlh1ohdboz
-slug: m2-operation-of-running-systems-1-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706749420188/25f2ee30-e61f-4c55-8791-1db59e7d9e01.png
-tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops
+slug: 23-a-comprehensive-guide-to-diagnosing-and-managing-processes-on-linux-ps-pgrep-nice
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707102868981/8ab0949d-efbd-423e-aef0-2041b5b1a17f.png
+tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops, trainwithshubham
 
 ---
 
