@@ -1,10 +1,10 @@
 ---
-title: "M.2: Operation of Running Systems"
+title: "2.6 Managing Software with DNF (dnf): A Comprehensive Guide"
 datePublished: Wed Aug 02 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2lwm1j000109lb9ndf9huj
 slug: m2-operation-of-running-systems-1-1-1-1-1-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706755132213/e3898c0d-1611-4ec8-8939-6af891ebb40b.png
-tags: linux, devops, linux-for-beginners, linux-commands, 90daysofdevops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707103540002/266ac57d-7557-4ca9-a3a9-d3ee8b903b34.png
+tags: linux, devops, linux-for-beginners, linux-basics, linux-commands, 90daysofdevops, shubhamlondhe, trainwithshubham
 
 ---
 
