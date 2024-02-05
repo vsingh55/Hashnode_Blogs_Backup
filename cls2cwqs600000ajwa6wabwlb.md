@@ -4,7 +4,7 @@ datePublished: Mon Jul 10 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2cwqs600000ajwa6wabwlb
 slug: m1-essential-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706784487845/3f078ce1-2cd2-495c-b277-4072ae901910.png
-tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops
+tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops, trainwithshubham
 
 ---
 
