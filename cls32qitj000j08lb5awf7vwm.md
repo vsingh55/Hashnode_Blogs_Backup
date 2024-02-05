@@ -1,5 +1,5 @@
 ---
-title: "M.2: Operation of Running Systems"
+title: "2.9 Understanding Mandatory Access Controls: Listing and Identifying SELinux/AppArmor File and Process Contexts with semanage and getenforce"
 datePublished: Sun Aug 06 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls32qitj000j08lb5awf7vwm
 slug: m2-operation-of-running-systems-1-1-1-1-1-1-1-1-1
@@ -8,7 +8,7 @@ tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops, shubhamlondhe, 
 
 ---
 
-# Introduction:
+## Introduction:
 
 Mandatory Access Controls (MAC) play a crucial role in enhancing the security of Linux systems. SELinux (Security-Enhanced Linux) and AppArmor are two popular MAC frameworks that enforce policies controlling the actions and permissions of processes. In this blog post, we will explore the semanage and getenforce commands, which are instrumental in listing and identifying SELinux and AppArmor file and process contexts.Understanding Security-Enhanced Linux (SELinux)
 
