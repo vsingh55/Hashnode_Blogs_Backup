@@ -1,5 +1,5 @@
 ---
-title: "M.1: Essential Commands"
+title: "M.1: 1.2 Mastering the Basics: Unveiling the Power of Essential Linux Commands in Our Mastering Linux Series"
 datePublished: Thu Jul 13 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clktnsqy3001y09mo4o9abzdq
 slug: basic-linux-commands
@@ -97,8 +97,8 @@ Here's a basic introduction to some common Linux commands:
 | `lp -nc , lpr c` | Prints “c” copies of the File |
 | `lp-d lp-P` | Specifies name of the printer |
 | `apt-get` | Command used to install and update packages |
-| `mail -s 'subject'   -c 'cc-address'   -b 'bcc-address'   'to-address'   ` | Command to send email |
-| `mail -s "Subject"   to-address < Filename   ` | Command to send email with attachment |
+| `mail -s 'subject' -c 'cc-address' -b 'bcc-address' 'to-address'` | Command to send email |
+| `mail -s "Subject" to-address < Filename` | Command to send email with attachment |
 
 These are just some of the basic Linux commands to get you started. As you become more familiar with the Linux environment, you'll find many more commands and options to explore!
 
@@ -108,5 +108,5 @@ These are just some of the basic Linux commands to get you started. As you becom
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">Stay updated for more such bloggs. Happy Learning</div>
+<div data-node-type="callout-text">Stay updated for more such blogs. Happy Learning</div>
 </div>
