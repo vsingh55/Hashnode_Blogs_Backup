@@ -1,5 +1,5 @@
 ---
-title: "M.1: 1.2 Mastering the Basics: Unveiling the Power of Essential Linux Commands in Our Mastering Linux Series"
+title: "1.2 Mastering the Basics: Unveiling the Power of Essential Linux Commands in Our Mastering Linux Series"
 datePublished: Thu Jul 13 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clktnsqy3001y09mo4o9abzdq
 slug: basic-linux-commands
