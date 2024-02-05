@@ -1,5 +1,5 @@
 ---
-title: "1.9 Sort and Uniq- Comparing and Manipulating File Content"
+title: "1.9 Sort and Uniq: Comparing and Manipulating File Content"
 datePublished: Sat Jul 22 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2i2htj000109jkf9yc4w3u
 slug: m1-essential-commands-1-1-1-1-1-1
