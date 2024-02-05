@@ -1,11 +1,11 @@
 ---
-title: "M.1: Essential Commands"
+title: "1.3 Unveiling the Power of Essential Linux Commands in Mastering Linux Series"
 datePublished: Fri Jul 14 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clku6njoo000009jmc9op2pya
 slug: day-3-basic-linux-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706815773316/2014ee8c-d681-497e-b65f-293adeff97cf.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706737795945/137705e0-7f08-4785-8185-3a3abc399af9.png
-tags: linux-for-beginners, linux-basics, linux-commands, 90daysofdevops, 90daysofdevops-devops-projectdevelopment-nonitbackground-github-docker-cloudplatforms-ec2-aws-elasticbeanstalk-lambdafunctions-devopspipelines-terraform-jenkins-docker-devsecops-scm-git-gitlab-bitbucket-buildtools-griddle-maven-ant-msbuild-monitoringtools-prometheus-grafana-ansible-ai-chatgpt-valueaddition-realworldproblems
+tags: linux-for-beginners, linux-basics, linux-commands, 90daysofdevops, shubhamlondhe, trainwithshubham
 
 ---
 
