@@ -1,10 +1,10 @@
 ---
-title: "M.2: Operation of Running Systems"
+title: "2.5 A Deep Dive into Task Scheduling with Crontab, Anacron, and At"
 datePublished: Mon Jul 31 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2kzzwh000009lb3ftq5l42
 slug: m2-operation-of-running-systems-1-1-1-1-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706749481117/3af0f609-a3c7-4e87-b48b-acbfd425117d.png
-tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707103489356/cbcb8ce6-ff03-4984-b154-929d2300d80f.png
+tags: cloud, linux, devops, linux-for-beginners, devops-journey, 90daysofdevops, trainwithshubham
 
 ---
 
