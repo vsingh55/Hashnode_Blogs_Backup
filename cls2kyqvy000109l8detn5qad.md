@@ -1,10 +1,10 @@
 ---
-title: "M.2: Operation of Running Systems"
+title: "2.5 Unveiling System Insights: A Guide to Locating and Analyzing Linux System Log Files with journalctl"
 datePublished: Sun Jul 30 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2kyqvy000109l8detn5qad
-slug: m2-operation-of-running-systems-1-1-1-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706749460945/25569ba6-4b98-4931-a9e8-3e55c7971fa9.png
-tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops
+slug: 25-unveiling-system-insights-a-guide-to-locating-and-analyzing-linux-system-log-files-with-journalctl
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707102996313/071945df-1488-4e8f-8f30-3442d73b4bb4.png
+tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops, trainwithshubham
 
 ---
 
