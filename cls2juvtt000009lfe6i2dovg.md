@@ -1,10 +1,10 @@
 ---
-title: "M.2: Operation of Running Systems"
+title: "2.2 Managing the Startup Process and Services with Systemctl"
 datePublished: Sun Jul 23 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2juvtt000009lfe6i2dovg
 slug: m2-operation-of-running-systems-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706749343775/f0f4de19-e0cc-473a-bb46-b81f653c1c38.png
-tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707102804010/a8f73b83-f928-4d5d-ae62-95782969ed44.png
+tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops, trainwithshubham
 
 ---
 
