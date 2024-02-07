@@ -3,7 +3,7 @@ title: "A Comprehensive Guide to Resource Management Methods"
 datePublished: Tue Feb 06 2024 08:57:24 GMT+0000 (Coordinated Universal Time)
 cuid: clsa4nuvx000209jmcj3q5ux5
 slug: a-comprehensive-guide-to-resource-management-methods
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707222567430/18239869-9f2a-47e6-99a4-2cafa2d4b7d7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707327403131/5f014b5c-3dca-4637-b79a-bdec5cba5308.png
 tags: azure, cloud-computing, devops, trainwithshubham, the-cloudops-community
 
 ---
