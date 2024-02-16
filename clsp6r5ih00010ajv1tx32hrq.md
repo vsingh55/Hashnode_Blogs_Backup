@@ -1,6 +1,6 @@
 ---
 title: "6.8 Evaluate and compare the basic file system features and options (findmnt, remount)"
-datePublished: Tue Oct 17 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Oct 19 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp6r5ih00010ajv1tx32hrq
 slug: 68-evaluate-and-compare-the-basic-file-system-features-and-options-findmnt-remount
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708120147958/2b0a3727-4f53-4b7e-87c4-ad609ac07b48.png
