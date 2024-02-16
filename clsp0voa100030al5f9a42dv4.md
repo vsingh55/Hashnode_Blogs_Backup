@@ -1,6 +1,6 @@
 ---
 title: "4.7 Keeping Time in Sync: Utilizing time_date_ctl for Network Time Synchronization"
-datePublished: Fri Feb 16 2024 19:08:03 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Aug 31 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp0voa100030al5f9a42dv4
 slug: 47-keeping-time-in-sync-utilizing-timedatectl-for-network-time-synchronization
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708110286454/6d7d068a-c575-4d9f-9d3e-4ff201a47afd.png
