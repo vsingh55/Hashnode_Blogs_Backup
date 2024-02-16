@@ -1,8 +1,8 @@
 ---
-title: "Enhancing Security with Squid Proxy Server: Restricting Access"
+title: "5.7 Enhancing Security with Squid Proxy Server: Restricting Access"
 datePublished: Fri Sep 15 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp1yfae000409jq7wb82hqr
-slug: enhancing-security-with-squid-proxy-server-restricting-access
+slug: 57-enhancing-security-with-squid-proxy-server-restricting-access
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708112154170/fc94e186-c31f-462a-9037-d0bfd038d9d0.png
 tags: linux, devops, linux-for-beginners, 90daysofdevops, shubhamlondhe, trainwithshubham, lfcs
 
