@@ -1,8 +1,8 @@
 ---
-title: "6.6 Configuring Systems to Mount File Systems at Boot in Linux"
+title: "6.6 Configuring Systems to Mount File Systems at Boot in Linux Part-2"
 datePublished: Wed Oct 11 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp6dshv000208jlfil8cqij
-slug: 66-configuring-systems-to-mount-file-systems-at-boot-in-linux
+slug: 66-configuring-systems-to-mount-file-systems-at-boot-in-linux-part-2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708119579521/fb6514cb-5569-459a-ba47-4b99a63b91a7.png
 tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops, shubhamlondhe, trainwithshubham, systemadministration
 
