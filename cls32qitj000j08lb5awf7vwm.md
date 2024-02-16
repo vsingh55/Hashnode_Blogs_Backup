@@ -3,7 +3,7 @@ title: "2.9 Understanding Mandatory Access Controls: Listing and Identifying SEL
 datePublished: Sun Aug 06 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls32qitj000j08lb5awf7vwm
 slug: m2-operation-of-running-systems-1-1-1-1-1-1-1-1-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706816267997/dfae2b26-600e-4737-9c8a-2e78c3dacd59.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708102741763/702fa2c1-2a08-481d-8f7a-830629967bdc.png
 tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops, shubhamlondhe, trainwithshubham
 
 ---
