@@ -1,6 +1,6 @@
 ---
 title: "5.4 Enhancing Email Delivery with Postfix: Configuring Email Aliases"
-datePublished: Wed Sep 06 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Fri Sep 08 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp1i5yx000109lbdgrn9cgf
 slug: 54-enhancing-email-delivery-with-postfix-configuring-email-aliases
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708111434343/af011542-34d0-4a73-b937-de140d3241e4.png
