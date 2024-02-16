@@ -14,7 +14,7 @@ Ensuring accurate timekeeping is crucial for various operations in a computer sy
 
 **Understanding Chrony and NTP:** Chrony is an implementation of the NTP protocol, designed to synchronize system clocks accurately with reference clocks or NTP servers. It offers flexibility in synchronization methods, including synchronization with NTP servers, reference clocks (e.g., GPS receivers), manual time inputs, and acting as an NTP server or peer.
 
-**Using Chrony with** `timedatectl`: To synchronize time using other network peers with `chronyd`, we can leverage the `timedatectl` command along with `chronyc` for monitoring and management. Here's how to utilize these tools effectively:
+**Using Chrony with**`timedatectl`: To synchronize time using other network peers with `chronyd`, we can leverage the `timedatectl` command along with `chronyc` for monitoring and management. Here's how to utilize these tools effectively:
 
 1. **Checking Chrony Status:**
     
@@ -40,7 +40,7 @@ Ensuring accurate timekeeping is crucial for various operations in a computer sy
     
     Use this command to view information about the NTP sources configured in Chrony, including their status and reachability.
     
-4. **Setting Timezone with** `timedatectl`:
+4. **Setting Timezone with**`timedatectl`:
     
     ```bash
     sudo timedatectl set-timezone America/New_York
@@ -81,3 +81,8 @@ sudo systemctl set-ntp true
 ## **Conclusion:**
 
 Synchronizing time using other network peers is essential for maintaining accurate timekeeping in Linux systems, especially in networked environments where coordination is critical. By leveraging tools like `chronyd` and `timedatectl`, administrators can ensure that system clocks remain synchronized with reliable NTP sources, minimizing discrepancies and improving system reliability. Understanding how to check synchronization status, configure timezones, and enable NTP synchronization is essential for effective time management in Linux environments.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Thank You!!</div>
+</div>
