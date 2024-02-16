@@ -3,7 +3,7 @@ title: "2.8 Mastering Kernel Control: Navigating Runtime Parameters with sysctl"
 datePublished: Fri Aug 04 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls30wadw000d0ajpgs51fkj3
 slug: m2-operation-of-running-systems-1-1-1-1-1-1-1-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706869187002/17d356ad-dc8b-4240-aebc-25bde6e43a29.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708108108455/5b1ad381-006d-4931-ae4e-7e436599b92b.png
 tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops, trainwithshubham
 
 ---
