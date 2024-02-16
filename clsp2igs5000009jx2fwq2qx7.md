@@ -1,6 +1,6 @@
 ---
 title: "5.10 Configuring a Database Server (MariaDB)"
-datePublished: Tue Sep 19 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Sep 21 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp2igs5000009jx2fwq2qx7
 slug: 510-configuring-a-database-server-mariadb
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708113043979/654f2db5-3c60-48b0-980f-3c2a9c60fb0c.png
