@@ -1,8 +1,8 @@
 ---
-title: "5.7 Setting Up and Configuring Apache HTTP Server"
+title: "5.8 Setting Up and Configuring Apache HTTP Server"
 datePublished: Sun Sep 17 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp21gq2000k09l9d0lk16zg
-slug: 57-setting-up-and-configuring-apache-http-server
+slug: 58-setting-up-and-configuring-apache-http-server
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708112318782/d92dc6fc-d185-46d6-aafc-8480e3281c86.png
 tags: linux, devops, linux-for-beginners, 90daysofdevops, shubhamlondhe, trainwithshubham
 
