@@ -1,6 +1,6 @@
 ---
 title: "5.9 Configuring HTTP Server Log Files and Restricting Access"
-datePublished: Sun Sep 17 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Sep 19 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp2c4pc000008jyguxo7ogc
 slug: 59-configuring-http-server-log-files-and-restricting-access
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708112538815/59eda12a-e29d-4b11-9cc2-bf1718b4e2b6.png
