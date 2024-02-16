@@ -1,6 +1,6 @@
 ---
 title: "6.9 Manage and configure LVM (Logical Volume Manager) storage"
-datePublished: Thu Oct 19 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Sat Oct 21 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp6x0hp000009l2e8w9anfx
 slug: 69-manage-and-configure-lvm-logical-volume-manager-storage
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708120438540/abb0a412-8190-48a0-b733-78cb3d20b553.png
