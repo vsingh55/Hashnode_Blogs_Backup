@@ -3,7 +3,7 @@ title: "1.5 Understanding and Managing Hard Links"
 datePublished: Tue Jul 18 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2bv7ra000508l5gzmvhjdc
 slug: 15-understanding-and-managing-hard-links
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706653918159/d61e803c-5c18-440a-bead-3fc2e78cc4a0.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708107863655/da573395-2a2c-49a2-8f98-31528ecaec23.png
 tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops
 
 ---
