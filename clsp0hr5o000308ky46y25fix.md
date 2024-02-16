@@ -1,6 +1,6 @@
 ---
 title: "4.5 Mastering Packet Filtering with firewall-cmd in Linux"
-datePublished: Sat Aug 26 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Mon Aug 28 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp0hr5o000308ky46y25fix
 slug: 45-mastering-packet-filtering-with-firewall-cmd-in-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708108263360/7e90f1c8-adde-4369-a544-0e2ebebc70f0.png
