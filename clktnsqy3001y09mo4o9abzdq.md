@@ -3,7 +3,7 @@ title: "1.2 Mastering the Basics: Unveiling the Power of Essential Linux Command
 datePublished: Thu Jul 13 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clktnsqy3001y09mo4o9abzdq
 slug: basic-linux-commands
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706784548014/6ea51545-3313-4262-86f6-79ffa7f40f2d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708107798127/8d88a412-07aa-4f45-b61e-9a1422188d1a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706737406294/4d317c87-bd3a-457e-be88-85ec44c3d80e.png
 tags: linux-for-beginners, devops-articles, linux-commands, 90daysofdevops, shubhamlondhe, trainwithshubham
 
