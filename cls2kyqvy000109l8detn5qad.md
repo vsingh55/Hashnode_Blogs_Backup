@@ -3,7 +3,7 @@ title: "2.4 Unveiling System Insights: A Guide to Locating and Analyzing Linux S
 datePublished: Sun Jul 30 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2kyqvy000109l8detn5qad
 slug: 25-unveiling-system-insights-a-guide-to-locating-and-analyzing-linux-system-log-files-with-journalctl
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707102996313/071945df-1488-4e8f-8f30-3442d73b4bb4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708108017861/65b9f643-c526-4b53-91f8-5831cd368d67.png
 tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops, trainwithshubham
 
 ---
