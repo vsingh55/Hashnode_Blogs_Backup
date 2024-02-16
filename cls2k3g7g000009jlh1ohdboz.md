@@ -3,7 +3,7 @@ title: "2.3 A Comprehensive Guide to Diagnosing and Managing Processes on Linux 
 datePublished: Wed Jul 26 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2k3g7g000009jlh1ohdboz
 slug: 23-a-comprehensive-guide-to-diagnosing-and-managing-processes-on-linux-ps-pgrep-nice
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707102868981/8ab0949d-efbd-423e-aef0-2041b5b1a17f.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708108003898/8b89411c-a754-4a62-85fb-ca3d55ea5de5.png
 tags: cloud, linux, devops, linux-for-beginners, 90daysofdevops, trainwithshubham
 
 ---
