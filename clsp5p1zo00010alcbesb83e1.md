@@ -1,8 +1,8 @@
 ---
-title: "Configuring and Managing Swap Space in Linux"
+title: "6.2 Configuring and Managing Swap Space in Linux"
 datePublished: Tue Oct 03 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp5p1zo00010alcbesb83e1
-slug: configuring-and-managing-swap-space-in-linux
+slug: 62-configuring-and-managing-swap-space-in-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708118428082/4cb671db-981c-4807-b212-d703794a44a7.png
 tags: linux, cloud-computing, devops, linux-for-beginners, 90daysofdevops, shubhamlondhe, trainwithshubham
 
