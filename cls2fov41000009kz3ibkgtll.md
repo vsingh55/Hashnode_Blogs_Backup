@@ -3,7 +3,7 @@ title: "1.6 Understanding Editors in Linux"
 datePublished: Wed Jul 19 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls2fov41000009kz3ibkgtll
 slug: 16-understanding-editors-in-linux
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706743294648/f891bae9-4ac3-4402-93e2-c39659cd6b51.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708107883886/26dc6d6d-e8ea-4e16-b986-11007ebc02d4.png
 tags: linux, vim, devops, linux-for-beginners, 90daysofdevops, trainwithshubham
 
 ---
