@@ -1,6 +1,6 @@
 ---
 title: "6.1 Understanding Storage & File Systems in Linux: A Comprehensive Guide"
-datePublished: Sat Sep 23 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Fri Sep 29 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsp3j4md00030ajx0by4hyyj
 slug: 61-understanding-storage-file-systems-in-linux-a-comprehensive-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708113981559/f141b853-9d7e-4554-b9e5-2a9974568cfc.png
