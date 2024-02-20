@@ -1,8 +1,8 @@
 ---
-title: "Networking: A Brief Introduction and History"
+title: "1.1 Networking: A Brief Introduction and History"
 datePublished: Mon Feb 12 2024 03:08:10 GMT+0000 (Coordinated Universal Time)
 cuid: clsictujc00030al70vvz9oln
-slug: networking-a-brief-introduction-and-history
+slug: 11-networking-a-brief-introduction-and-history
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707620133769/6112ee51-ed98-4b24-bd76-0708390f3f1e.png
 tags: linux, windows, networking, trainwithshubham, azurenetworking, cloudnetworking
 
