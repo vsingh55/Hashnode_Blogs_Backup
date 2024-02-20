@@ -1,8 +1,8 @@
 ---
-title: "Core Component of Networking: Cables, Devices, and Protocols"
+title: "1.2 Core Component of Networking: Cables, Devices, and Protocols"
 datePublished: Tue Feb 13 2024 03:35:24 GMT+0000 (Coordinated Universal Time)
 cuid: clsjt8q90000109jmcj9kctdt
-slug: core-component-of-networking-cables-devices-and-protocols
+slug: 12-core-component-of-networking-cables-devices-and-protocols
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707620334436/c9a3cf5b-b926-49b2-bc52-499e2b88870b.png
 tags: linux, windows, networking, trainwithshubham, azurenetworking
 
