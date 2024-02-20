@@ -1,8 +1,8 @@
 ---
-title: "Deep Dive into Ethernet and MAC Addresses"
+title: "1.6 Deep Dive into Ethernet and MAC Addresses"
 datePublished: Sat Feb 17 2024 03:35:09 GMT+0000 (Coordinated Universal Time)
 cuid: clspizssa000308l91kug5b1u
-slug: deep-dive-into-ethernet-and-mac-addresses
+slug: 16-deep-dive-into-ethernet-and-mac-addresses
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707620862130/28dcd0a5-b9c2-4a8f-9398-61eb7885c123.png
 tags: linux, windows, networking, cloudnetworking
 
