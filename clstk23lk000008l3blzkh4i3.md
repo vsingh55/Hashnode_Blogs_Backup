@@ -1,8 +1,8 @@
 ---
-title: "Ethernet Frame Analysis: Beyond the Basics"
+title: "1.8 Ethernet Frame Analysis: Beyond the Basics"
 datePublished: Mon Feb 19 2024 23:16:00 GMT+0000 (Coordinated Universal Time)
 cuid: clstk23lk000008l3blzkh4i3
-slug: ethernet-frame-analysis-beyond-the-basics
+slug: 18-ethernet-frame-analysis-beyond-the-basics
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707620089474/b96f0c10-4eb6-43b3-bedc-addeba077326.png
 tags: linux, windows, networking, trainwithshubham, azurenetworking, powertocloud
 
