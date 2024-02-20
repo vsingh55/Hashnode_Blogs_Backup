@@ -1,8 +1,8 @@
 ---
-title: "Unicast, Multicast, and Broadcast"
+title: "1.7 Unicast, Multicast, and Broadcast"
 datePublished: Mon Feb 19 2024 03:32:19 GMT+0000 (Coordinated Universal Time)
 cuid: clssdrv8k00010al5dfsoatuf
-slug: unicast-multicast-and-broadcast
+slug: 17-unicast-multicast-and-broadcast
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707620952502/2bfa4c17-5333-41d1-a3b1-9b47b05ecedf.png
 tags: linux, windows, networking, trainwithshubham, azurenetworking
 
