@@ -1,8 +1,8 @@
 ---
-title: "Twisted Pair Cabling"
+title: "1.4 Twisted Pair Cabling"
 datePublished: Thu Feb 15 2024 02:30:07 GMT+0000 (Coordinated Universal Time)
 cuid: clsmlsgkh000009idb57c12z6
-slug: twisted-pair-cabling
+slug: 14-twisted-pair-cabling
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707620554293/6077f33f-8297-4fe5-bc72-85584b1c365e.png
 tags: linux, windows, networking, trainwithshubham, azurenetworking
 
