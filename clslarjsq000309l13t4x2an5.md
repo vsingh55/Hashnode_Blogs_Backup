@@ -1,8 +1,8 @@
 ---
-title: "The Netwok Kingdom: Client & Server"
+title: "1.3 The Netwok Kingdom: Client & Server"
 datePublished: Wed Feb 14 2024 04:33:42 GMT+0000 (Coordinated Universal Time)
 cuid: clslarjsq000309l13t4x2an5
-slug: the-netwok-kingdom-client-server
+slug: 13-the-netwok-kingdom-client-server
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707620449718/ef934b4d-c34a-4dd1-ab86-6ae646e9463d.png
 tags: linux, windows, networking, trainwithshubham, cloudnetworking
 
