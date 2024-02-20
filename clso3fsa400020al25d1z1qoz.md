@@ -1,8 +1,8 @@
 ---
-title: "Essentials of Network Infrastructure: Network Ports and Patch Panels"
+title: "1.5 Essentials of Network Infrastructure: Network Ports and Patch Panels"
 datePublished: Fri Feb 16 2024 03:31:54 GMT+0000 (Coordinated Universal Time)
 cuid: clso3fsa400020al25d1z1qoz
-slug: essentials-of-network-infrastructure-network-ports-and-patch-panels
+slug: 15-essentials-of-network-infrastructure-network-ports-and-patch-panels
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707620769468/1d84e8e5-ddb4-44ac-8255-40713fecb095.png
 tags: linux, windows, networking, trainwithshubham, cloudnetworking
 
