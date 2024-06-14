@@ -266,7 +266,7 @@ You'll need two personal access tokens: one for the Azure agent and one for Argo
             containerRegistry: '$(dockerRegistryServiceConnection)'
             repository: '$(imageRepository)'
             command: 'push'
-            tags: '$(tag)'    
+            tags: '$(tag)'
     ```
     
 3. **Run the Pipeline**: Trigger the pipeline to ensure everything is set up correctly. The pipeline should build the Docker image and push it to the ACR.
@@ -406,6 +406,8 @@ az aks get-credentials --resource-group <resource-group-name> --name <K8's clust
         
     * ArgoCD will detect the changes and sync the application automatically.
         
+        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718364249179/6c759c97-856a-489f-93d3-baa648e78be7.png align="center")
+        
 2. **Access Deployed Applications**:
     
     * Get the external IP and node ports for your applications:
@@ -422,6 +424,16 @@ az aks get-credentials --resource-group <resource-group-name> --name <K8's clust
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718177555911/94184fa4-b0e5-4d44-a073-c365acc26add.png align="center")
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718177567833/71e348d6-91ab-49c8-bb86-ee4b731d6630.png align="center")
+        
+    * Here are some screenshots before and after the implementing CI/CD
+        
+        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718364388601/8e5bb8c9-3684-4cbf-b13c-b56e6cb7d485.png align="center")
+        
+        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718364402213/35129aeb-1d8e-47ce-8867-061692165d59.png align="center")
+        
+        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718364419977/ee7b170c-82ec-4361-8067-c9be4fdce451.png align="center")
+        
+        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718364435327/29e53101-0e26-41c1-a596-b27aef3f33b4.png align="center")
         
 
 ## Conclusion
