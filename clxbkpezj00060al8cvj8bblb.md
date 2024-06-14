@@ -1,9 +1,9 @@
 ---
-title: "Project: Building a CI/CD Pipeline with Azure DevOps and ArgoCD"
+title: "Building a CI/CD Pipeline with Azure DevOps and ArgoCD"
 seoDescription: "Leverage Azure DevOps for Continuous Integration (CI) and ArgoCD for Continuous Deployment (CD) to build a robust pipeline that handles everything from code"
 datePublished: Wed Jun 12 2024 08:32:49 GMT+0000 (Coordinated Universal Time)
 cuid: clxbkpezj00060al8cvj8bblb
-slug: project-building-a-cicd-pipeline-with-azure-devops-and-argocd
+slug: building-a-cicd-pipeline-with-azure-devops-and-argocd
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1718097840267/a93f5f2a-a42c-4b28-b2a4-2eee98b690ff.png
 tags: cicd, azure-pipelines, azure-devops, 2articles1week, argocd, aksazure-kubernetes-services
 
