@@ -3,7 +3,7 @@ title: "2.6 Gateway Chronicles: Navigating the Network Realm"
 seoDescription: "Non-Routable Address Space: A Brief History
 Autonomous Systems
 Gateway Protocols
-RFC "
+RFC"
 datePublished: Mon Jun 17 2024 14:18:08 GMT+0000 (Coordinated Universal Time)
 cuid: clxj28r6v000009mja8imc3vj
 slug: 26-gateway-chronicles-navigating-the-network-realm
