@@ -1,12 +1,12 @@
 ---
 title: "3.1 The Network Landscape: Multiplexing, Handshakes, and Security Essentials"
 seoTitle: "Network Layers: Transport,TCP vs. UDP,Handshakes, and Firewall explain"
-seoDescription: "Discover the essentials of network communication by exploring the transport and application layers, the differences between TCP and UDP,handshakes,firewall "
+seoDescription: "Discover the essentials of network communication by exploring the transport and application layers, the differences between TCP and UDP,handshakes,firewall"
 datePublished: Sun Jun 23 2024 09:24:46 GMT+0000 (Coordinated Universal Time)
 cuid: clxrcelss00040ajv11hkfzez
 slug: the-transport-layer
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719132940590/d53a5525-4b7c-4fe0-883d-89fcc3cdd912.png
-tags: network-protocols, application-layer, tcpvsudp, three-way-handshake, transport-layer, network-multiplexing, network-demultiplexing, four-way-handshake, network-firewalls, connectionless-protocols, connection-oriented-protocols
+tags: network-protocols, 2articles1week, application-layer, tcpvsudp, three-way-handshake, transport-layer, network-multiplexing, network-demultiplexing, four-way-handshake, network-firewalls, connectionless-protocols, connection-oriented-protocols
 
 ---
 
