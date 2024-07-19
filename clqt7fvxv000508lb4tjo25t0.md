@@ -1,9 +1,11 @@
 ---
-title: "Project: Streamlining File Uploads to Azure Blob Storage with LTC-CloudUploader_CLI"
+title: "Streamlining File Uploads to Azure Blob Storage with LTC-CloudUploader_CLI"
+seoTitle: "Simplify Azure Uploads with LTC-CloudUploader_CLI"
+seoDescription: "Simplify Azure Blob Storage uploads with LTC-CloudUploader_CLI, an easy Bash script. Enhance file management!"
 datePublished: Sun Dec 31 2023 08:03:24 GMT+0000 (Coordinated Universal Time)
 cuid: clqt7fvxv000508lb4tjo25t0
 slug: project-streamlining-file-uploads-to-azure-blob-storage-with-ltc-clouduploadercli
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0qvBNep1Y04/upload/49e549a281c8ea1a94a7e1c575a475eb.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721418884220/78be714b-2c6f-4ac7-be59-f3de938812c9.png
 tags: cloud, azure, bash, cloud-computing, scripting
 
 ---
@@ -149,7 +151,7 @@ Follow these simple steps to get started with LTC-CloudUploader\_CLI:
 
 ```bash
 sudo dnf install -y git
-git clone https://github.com/krvsc/LTC-CloudUploader_CLI.git
+git clone https://github.com/vsingh55/LTC-CloudUploader_CLI.git
 ```
 
 ### **2\. Run the Command**
@@ -194,5 +196,3 @@ In conclusion, LTC-CloudUploader\_CLI provides a powerful yet user-friendly solu
 <div data-node-type="callout-emoji">💡</div>
 <div data-node-type="callout-text">Feel free to contribute to this project by opening issues or submitting pull requests.</div>
 </div>
-
-> I would greatly appreciate your contribution to enhance this script for multi-cloud and multifile uploading.
