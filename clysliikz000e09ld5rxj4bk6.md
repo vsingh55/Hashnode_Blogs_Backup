@@ -4,9 +4,8 @@ seoTitle: "Efficient IAC: Modular Terraform Guide"
 seoDescription: "Efficient Terraform: Use modular configurations for reuse, organization, and collaboration. Understand benefits, challenges, and best practices"
 datePublished: Fri Jul 19 2024 11:07:14 GMT+0000 (Coordinated Universal Time)
 cuid: clysliikz000e09ld5rxj4bk6
-slug: modular-terraform-a-guide-to-efficient-infrastructure-as-code
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721419041174/258dab8a-efeb-4365-9752-d1f2699b7999.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1721419076548/e96c3440-a95a-432a-b5c6-4f85d4e31add.png
+slug: modular-terraform
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721423286338/72f0e130-13d4-41f8-a7e8-b56720ea4335.png
 tags: azure, terraform, infrastructure-as-code, 2articles1week-1, terraform-cloud, terraform-module
 
 ---
