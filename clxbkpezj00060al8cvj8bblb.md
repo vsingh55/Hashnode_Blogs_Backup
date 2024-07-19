@@ -1,10 +1,11 @@
 ---
-title: "Building a CI/CD Pipeline with Azure DevOps and ArgoCD"
+title: "Deploying Vote-App on Azure Kubernetes Service with DevOps and ArgoCD"
+seoTitle: "Deploy Vote-App on AKS with DevOps and ArgoCD"
 seoDescription: "Leverage Azure DevOps for Continuous Integration (CI) and ArgoCD for Continuous Deployment (CD) to build a robust pipeline that handles everything from code"
 datePublished: Wed Jun 12 2024 08:32:49 GMT+0000 (Coordinated Universal Time)
 cuid: clxbkpezj00060al8cvj8bblb
-slug: building-a-cicd-pipeline-with-azure-devops-and-argocd
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1718097840267/a93f5f2a-a42c-4b28-b2a4-2eee98b690ff.png
+slug: vote-app-deploy
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721422502055/e023f274-bfb4-4cb5-8c3e-600cb68537e8.png
 tags: cicd, azure-pipelines, azure-devops, 2articles1week, argocd, aksazure-kubernetes-services
 
 ---
@@ -16,6 +17,10 @@ In this blog post, I'll guide you through the step-by-step process of setting up
 Modern software development demands rapid iterations and seamless deployments. Continuous Integration and Continuous Deployment (CI/CD) practices enable developers to merge code frequently, automate tests, and deploy applications efficiently. In this blog, we'll leverage Azure DevOps for Continuous Integration (CI) and ArgoCD for Continuous Deployment (CD) to build a robust pipeline that handles everything from code commits to deploying applications in Azure Kubernetes cluster(AKS).
 
 %[https://youtu.be/WNlly0IJFhM?si=imSHw_m1R-hn8NIQ] 
+
+## Architecture
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721422382355/dfd9b898-fd4f-4ec8-9946-aece9ac1cf6e.png align="center")
 
 ## Prerequisites
 
