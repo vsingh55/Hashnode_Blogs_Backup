@@ -5,8 +5,8 @@ seoDescription: "Efficient Terraform: Use modular configurations for reuse, orga
 datePublished: Fri Jul 19 2024 11:07:14 GMT+0000 (Coordinated Universal Time)
 cuid: clysliikz000e09ld5rxj4bk6
 slug: modular-terraform-a-guide-to-efficient-infrastructure-as-code
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721386383070/29c3c86e-b5ad-4a28-85c6-dc2cb958fab9.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1721387182294/fb3f8224-9856-4e01-95af-5c763380b09a.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721419041174/258dab8a-efeb-4365-9752-d1f2699b7999.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1721419076548/e96c3440-a95a-432a-b5c6-4f85d4e31add.png
 tags: azure, terraform, infrastructure-as-code, 2articles1week-1, terraform-cloud, terraform-module
 
 ---
