@@ -4,7 +4,7 @@ seoTitle: "Python AWS Weather Data Pipeline Guide"
 seoDescription: "Learn to build an automated weather data pipeline using Python and AWS, fetching data from OpenWeather API to store in S3"
 datePublished: Mon Jan 27 2025 17:54:59 GMT+0000 (Coordinated Universal Time)
 cuid: cm6fcmfvc000d09l7c8cv4vdk
-slug: building-a-weather-data-pipeline-with-python-on-aws
+slug: weather-dashboard
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737999952196/4f203f15-e957-4199-ae2b-bfb14cda9714.jpeg
 tags: aws, python, apis, api-basics, aws-services
 
