@@ -5,7 +5,7 @@ seoDescription: "Use AWS event-driven architecture for real-time NBA game update
 datePublished: Mon Feb 03 2025 18:47:11 GMT+0000 (Coordinated Universal Time)
 cuid: cm6pekjqw000009ibdtn79wpj
 slug: gdn
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738607338613/9b79e9a6-b2de-41d7-b7cc-44441c753341.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738615909496/d347d8ef-c979-4e80-8cb7-3e3ae220d9e7.png
 tags: aws, python, aws-lambda, event-driven-architecture, aws-sns, aws-eventbridge, devopsallstarschallenge, python-api
 
 ---
