@@ -5,7 +5,7 @@ seoDescription: "Learn to build an automated weather data pipeline using Python 
 datePublished: Mon Jan 27 2025 17:54:59 GMT+0000 (Coordinated Universal Time)
 cuid: cm6fcmfvc000d09l7c8cv4vdk
 slug: weather-dashboard
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737999952196/4f203f15-e957-4199-ae2b-bfb14cda9714.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738616161715/93801084-f5dd-426d-8b58-f57b4bad5b16.png
 tags: aws, python, apis, api-basics, aws-services
 
 ---
