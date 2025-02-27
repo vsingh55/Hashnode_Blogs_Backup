@@ -4,7 +4,7 @@ seoTitle: "Simplify Azure Uploads with LTC-CloudUploader_CLI"
 seoDescription: "Simplify Azure Blob Storage uploads with LTC-CloudUploader_CLI, an easy Bash script. Enhance file management!"
 datePublished: Sun Dec 31 2023 08:03:24 GMT+0000 (Coordinated Universal Time)
 cuid: clqt7fvxv000508lb4tjo25t0
-slug: project-streamlining-file-uploads-to-azure-blob-storage-with-ltc-clouduploadercli
+slug: ltc-clouduploadercli
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721418884220/78be714b-2c6f-4ac7-be59-f3de938812c9.png
 tags: cloud, azure, bash, cloud-computing, scripting
 
