@@ -4,7 +4,7 @@ seoTitle: "3-Tier AKS Architecture: Terraform, Jenkins Guide"
 seoDescription: "Deploy a 3-Tier architecture on AKS using Terraform and Jenkins. Follow this step-by-step guide for efficient deployment and CI/CD setup"
 datePublished: Sat Aug 03 2024 03:30:26 GMT+0000 (Coordinated Universal Time)
 cuid: clzdksukr000x09lf40hy4di8
-slug: deploy-trio
+slug: 3-tier-architecture-deployment-across-multiple-environments
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722629790042/60d13480-e4a8-448d-921c-790f8eb6dc21.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1722629976747/7f038ad6-2bc1-4f1d-a364-d6eeedd24106.png
 tags: docker, azure, sonarqube, automation, devops, terraform, jenkins, cicd-cjy1vtdk2005kjjs17n8couc3, 2articles1week, terraform-workspace, trivy, aksazure-kubernetes-services, terraform-module, powertocloud, 3-tier
